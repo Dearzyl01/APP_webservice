@@ -1,0 +1,2 @@
+rootProject.name='访问服务器'
+include ':app'
